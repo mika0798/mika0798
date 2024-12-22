@@ -2,8 +2,8 @@
 <p>Hello, I am a tech enthusiast and soon-to-be Full-stack dev 👨‍💻</p>
 <p><strong>I'm currently in Intensive Mode. Learning new things, working on personal projects and looking for new opportunities </strong></p>
 <p><i>...And also trying to live a happy life 🌸</i></p>
-<hr><hr>
-## 📫 Get in touch
+<hr>
+<h1>📫 Get in touch</h1> 
 
 <!--
 **mika0798/mika0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
