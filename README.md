@@ -4,8 +4,10 @@
 <p><i>...And also trying to live a happy life 🌸</i></p>
 <hr>
 <h1>📫 Get in touch</h1> 
-<img src=""> @
-<img src=""> @
+<ul>
+  <li>Reddit @<a href="https://www.reddit.com/user/minhkhang17/">minhkhang17</a></li>
+  <li>X @<a href="https://x.com/mhkhang07">mhkhang07</a></li>
+</ul>
 <!--
 **mika0798/mika0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
