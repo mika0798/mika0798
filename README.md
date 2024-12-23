@@ -21,6 +21,7 @@
   <li><a href="https://x.com/mhkhang07">X (Twitter)</a></li>
 </ul>
 <hr>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D356F7&width=435&lines=Have+a+lovely+day!" alt="Typing SVG" /></a>
 </div>
 </body>
 <!--
