@@ -2,12 +2,15 @@
 <p>Hello, I am a tech enthusiast and a soon-to-be Full-stack dev 👨‍💻</p>
 <p><strong>I'm currently in Intensive Mode: Learning new things, working on personal projects and looking for new opportunities </strong></p>
 <p><i>...And also trying to live a happy life 🌸</i></p>
-<hr>
+<h1>🗣️ Favorite quote</h1>
+  <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
+  <p><i>-Michael Scott, The Office US-</i></p>
 <h1>📫 Get in touch</h1> 
 <ul>
   <li>Reddit @<a href="https://www.reddit.com/user/minhkhang17/">minhkhang17</a></li>
   <li>X @<a href="https://x.com/mhkhang07">mhkhang07</a></li>
 </ul>
+<hr>
 <!--
 **mika0798/mika0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
