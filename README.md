@@ -17,8 +17,8 @@
   <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%">
 <h3>📫 Get in touch</h3> 
 <ul>
-  <li>Reddit @<a href="https://www.reddit.com/user/minhkhang17/">minhkhang17</a></li>
-  <li>X @<a href="https://x.com/mhkhang07">mhkhang07</a></li>
+  <li><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></li>
+  <li><a href="https://x.com/mhkhang07">X (Twitter)</a></li>
 </ul>
 <hr>
 </div>
