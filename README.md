@@ -8,7 +8,7 @@
 <body>
 <div align="left">
 <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h3>
-<p>Hello, I am a tech enthusiast and a soon-to-be Full-stack dev 👨‍💻</p>
+<p>I am a tech enthusiast and a soon-to-be Full-stack dev 👨‍💻</p>
 <p><strong>I'm currently in Intensive Mode: Learning new things, working on personal projects and looking for new opportunities </strong></p>
 <p><i>...And also trying to live a happy life 🌸</i></p>
 <h3>🗣️ Favorite quote</h3>
