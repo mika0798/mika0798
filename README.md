@@ -21,7 +21,8 @@
         <strong>Front-End Library: </strong>•React •Bootstrap
         <strong>Front-End Frameworks: </strong>•Angular
       </pre>
-      <br>
+      <br><br>
+    </div>      
     </h3>
     <h3>🗣️ Favorite quote</h3>
       <br>
@@ -33,7 +34,6 @@
         <br>
         <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p>
         <p><a href="https://x.com/mhkhang07">X (Twitter)</a></p>
-    </div>
   </main>
   <hr>
   <footer>
