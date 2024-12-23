@@ -14,6 +14,15 @@
       <p><strong>I'm currently in Intensive Mode: Learning new things, working on personal projects and looking for new opportunities </strong></p>
       <p><i>...And also trying to live a happy life 🏝️</i></p>
       <br>
+    <h3>Skills
+      <br><br>
+      <pre>  
+        <strong>Front-End: </strong>•HTML5 •CSS •Javascript
+        <strong>Front-End Library: </strong>•React •Bootstrap
+        <strong>Front-End Frameworks: </strong>•Angular
+      </pre>
+      <br>
+    </h3>
     <h3>🗣️ Favorite quote</h3>
       <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
