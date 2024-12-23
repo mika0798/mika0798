@@ -9,6 +9,7 @@
 <h3>🗣️ Favorite quote</h3>
   <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
   <p><i>-Michael Scott, The Office US-</i></p>
+  <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="10%">
 <h3>📫 Get in touch</h3> 
 <ul>
   <li>Reddit @<a href="https://www.reddit.com/user/minhkhang17/">minhkhang17</a></li>
