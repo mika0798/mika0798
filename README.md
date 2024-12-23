@@ -25,7 +25,7 @@
   </main>
   <hr>
   <footer>
-    <div align="center">
+    <div align="auto">
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8" alt="Typing SVG" /></a>
     </div>
   </footer>
