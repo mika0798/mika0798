@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <!--Makes the mobile web version appears as neatly as the desktop version-->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3EF7A2&width=435&lines=%E2%98%83%EF%B8%8F%F0%9F%8E%84Merry+Christmas%F0%9F%8E%84%E2%98%83%EF%B8%8F" width="60%" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3EF7A2&width=435&lines=%E2%98%83%EF%B8%8F%F0%9F%8E%84Merry+Christmas%F0%9F%8E%84%E2%98%83%EF%B8%8F" width="70%" alt="Typing SVG">
   </div>
 </head>
 <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg" align="right" width="39%">
@@ -12,10 +12,8 @@
   <main>
     <div align="left">
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h3>
-      <br>
-      <p>I am a tech enthusiast and a soon-to-be Full-stack dev 👨‍💻<strong> Currently, I'm in my Intensive Mode: Learning new things, working on personal projects and looking for new opportunities </strong></p>
+      <p>I am a tech enthusiast and a soon-to-be Full-stack dev 👨‍💻<strong> Currently, I'm in my Intensive Mode: Learning new things, working on personal projects and looking for new opportunities. </strong></p>
       <p><i>...And also trying to live a happy life 🏝️</i></p>
-      <br>
     <h3>⌨️ Skills
       <br><br>
       <pre>  
@@ -23,7 +21,6 @@
         <strong>Front-End Library: </strong>•React •Bootstrap
         <strong>Front-End Frameworks: </strong>•Angular
       </pre>
-      <br><br>
     </div>      
     </h3>
     <h3>🗣️ Favorite quote</h3>
@@ -31,7 +28,6 @@
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
       <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%">
-      <br>
     <h3>📫 Get in touch</h3>
         <br>
         <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p>
