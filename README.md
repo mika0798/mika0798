@@ -26,7 +26,7 @@
   <hr>
   <footer>
     <div align="center">
-       <a align="center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D356F7&width=435&lines=Have+a+lovely+day!" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8" alt="Typing SVG" /></a>
     </div>
   </footer>
 </body>
