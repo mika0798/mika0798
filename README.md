@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+<!--Makes the mobile web version appears similarly to the desktop version-->
+</head>
 <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg" align="right" width="30%">
 <body>
 <div align="left">
