@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <!--Makes the mobile web version appears as neatly as the desktop version-->
-  <div align="center">
+  <div align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3EF7A2&width=435&lines=%E2%98%83%EF%B8%8F%F0%9F%8E%84Merry+Christmas%F0%9F%8E%84%E2%98%83%EF%B8%8F" width="70%" alt="Typing SVG">
   </div>
 </head>
