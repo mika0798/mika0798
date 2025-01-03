@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <!--Makes the mobile web version appears as neatly as the desktop version-->
-  <div align="left">
+  <p align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3EF7A2&width=435&lines=%E2%98%83%EF%B8%8F%F0%9F%8E%84Merry+Christmas%F0%9F%8E%84%E2%98%83%EF%B8%8F" width="70%" alt="Typing SVG">
-  </div>
+  </p>
 </head>
 <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg" align="right" width="39%">
 <body>
