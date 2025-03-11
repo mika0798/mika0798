@@ -17,9 +17,13 @@
     <h3>⌨️ Skills
       <br><br>
       <pre>  
-        <strong>Front-End: </strong>•HTML5 •CSS •Javascript
-        <strong>Front-End Library: </strong>•React •Bootstrap
-        <strong>Front-End Frameworks: </strong>•Angular
+        <strong>Front-End Languages: </strong>
+        <strong>Front-End Library: </strong>
+        <strong>Front-End Frameworks: </strong>
+        <strong>Back-End Languages: </strong>
+        <strong>Back-End Environments: </strong>
+        <strong>API Formats: </strong>
+        <strong>API Architectures: </strong>
       </pre>
     </div>      
     </h3>
