@@ -16,7 +16,8 @@
       <p><i>...And also trying to live a happy life 🏝️</i></p>
     <h3>⌨️ Skills
       <br><br>
-      <pre>  
+      <pre>
+        <!--
         <strong>Front-End Languages: </strong>
         <strong>Front-End Library: </strong>
         <strong>Front-End Frameworks: </strong>
@@ -24,6 +25,7 @@
         <strong>Back-End Environments: </strong>
         <strong>API Formats: </strong>
         <strong>API Architectures: </strong>
+        -->
       </pre>
     </div>      
     </h3>
