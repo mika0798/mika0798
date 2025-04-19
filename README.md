@@ -37,7 +37,7 @@
     <h3>📫 Get in touch</h3>
         <br>
         <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p>
-        <p><a href="https://x.com/mhkhang07">X (Twitter)</a></p>
+       <!-- <p><a href="https://x.com/mhkhang07">X (Twitter)</a></p> -->
   </main>
   <hr>
   <footer>
