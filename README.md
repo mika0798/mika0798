@@ -12,9 +12,9 @@
   <main>
     <div align="left">
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h3>
-      <p>I am a tech enthusiast and a soon-to-be Web developer 👨‍💻<strong> Currently, I'm on my lock-in mode: Learning new things, working on personal projects and looking for new opportunities. </strong></p>
+      <p>I am a tech enthusiast and a soon-to-be Web developer 👨‍💻<strong> Currently, I'm learning new things, working on personal projects and looking for new opportunities. </strong></p>
       <p><i>...And also trying to live a happy life 🏝️</i></p>
-    <h3>⌨️ Skills
+    <!-- <h3>⌨️ Skills
       <br><br>
       <pre>
         <!--
@@ -28,7 +28,7 @@
         -->
       </pre>
     </div>      
-    </h3>
+    </h3> -->
     <h3>🗣️ Favorite quote</h3>
       <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
@@ -36,7 +36,7 @@
       <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%">
     <h3>📫 Get in touch</h3>
         <br>
-        <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p>
+        <!-- <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p> -->
        <!-- <p><a href="https://x.com/mhkhang07">X (Twitter)</a></p> -->
   </main>
   <hr>
