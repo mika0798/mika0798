@@ -48,10 +48,15 @@
 		  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 		<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
       </div>
+		<br>
     <h3>🗣️ Favorite quote</h3>
     <br>
+		<div align="center">
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
+		</div>
+		<div align="center">
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
+		</div>
 		<p align="center">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="22.5%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="22.75%">
