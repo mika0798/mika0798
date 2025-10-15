@@ -53,30 +53,19 @@
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
 		<p align="center">
-      <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%"> -->
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="22.5%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="22.75%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 		</p>
-	<br>
   </main>
-  <hr>
+		<br>
+		<div align="center">
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=++++++%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8" width="60%" alt="Typing SVG" /></a>
+		</div>
   <footer>
     <div align="center">
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=++++++%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8" width="60%" alt="Typing SVG" /></a>
+	<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/techdoodle.png">
     </div>
   </footer>
 </body>
-<!--
-**mika0798/mika0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
