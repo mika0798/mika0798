@@ -29,10 +29,10 @@
       </pre>
     </div>      
     <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" width="20%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight"/>
     </picture>
     <h3>📚 Tech Stack</h3>
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
+      <img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
     <h3>🗣️ Favorite quote</h3>
       <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
