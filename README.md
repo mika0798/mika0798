@@ -52,8 +52,14 @@
     <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
-      <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%">
-    <br>
+		<p align="left">
+      <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%"> -->
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="20%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="20%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="20%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="20%">
+		</p>
+	<br>
   </main>
   <hr>
   <footer>
@@ -64,9 +70,7 @@
 </body>
 <!--
 **mika0798/mika0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
