@@ -70,6 +70,8 @@
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 		</div>
 		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div>
   <footer>
