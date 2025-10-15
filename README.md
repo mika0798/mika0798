@@ -28,7 +28,8 @@
         -->
       </pre>
     </div>      
-    </h3> -->
+    </h3>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika0798&hide=contribs,prs)
     <h3>🗣️ Favorite quote</h3>
       <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
