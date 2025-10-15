@@ -52,12 +52,12 @@
     <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
-		<p align="left">
+		<p align="center">
       <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%"> -->
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="20%">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="20%">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="20%">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="20%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="22.5%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="22.75%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 		</p>
 	<br>
   </main>
