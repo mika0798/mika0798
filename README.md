@@ -14,7 +14,7 @@
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h3>
       <p>I am a tech enthusiast and a soon-to-be Web developer 👨‍💻<strong> Currently, I'm learning new things, working on personal projects and looking for new opportunities. </strong></p>
       <p><i>...And also trying to live a happy life 🏝️</i></p>
-    <!-- <h3>⌨️ Skills
+    <!-- <h3>⌨️ Skills</h3>
       <br><br>
       <pre>
         <!--
@@ -28,14 +28,17 @@
         -->
       </pre>
     </div>      
-    </h3>
-      ![MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=radical)
+    <picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" width="20%"/>
+    </picture>
+    <h3>📚 Tech Stack</h3>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
     <h3>🗣️ Favorite quote</h3>
       <br>
       <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love me."</i></p>
       <p><strong><I> -Michael Scott, The Office US</i></strong></p>
       <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/ezgif-3-12d9714e93.gif" width="20%">
-    <h3>📫 Get in touch</h3>
+    <!-- <h3>📫 Get in touch</h3> -->
         <br>
         <!-- <p><a href="https://www.reddit.com/user/minhkhang17/">Reddit</a></p> -->
        <!-- <p><a href="https://x.com/mhkhang07">X (Twitter)</a></p> -->
