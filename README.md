@@ -2,6 +2,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+	<div align="center">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+		</div>
+		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div>
   <p align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D19&width=435&lines=%F0%9F%8E%86%F0%9F%90%8D%F0%9F%8E%89Happy+Lunar+New+Year%F0%9F%8E%8B%F0%9F%AB%B0%F0%9F%A7%A7" width="70%" alt="Typing SVG">
   </p>
@@ -65,15 +71,12 @@
 		</p>
   </main>
 		<br>
-		<div align="center">
+		<!-- <div align="center">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
-			<!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100"> -->
 		</div>
-		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div>
+		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div> -->
   <footer>
 	<div align="center">
 		<hr>
