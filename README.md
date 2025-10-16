@@ -62,6 +62,9 @@
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 		</p>
+		<p>
+		<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula' />
+		</p>
 		<br>
 		<!-- <div align="center">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
