@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-	<p align="center">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D19&width=435&lines=%F0%9F%8E%86%F0%9F%90%8D%F0%9F%8E%89Happy+Lunar+New+Year%F0%9F%8E%8B%F0%9F%AB%B0%F0%9F%A7%A7" width="70%" alt="Typing SVG">
-  </p>
+</p>
 	<div align="center">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 		</div>
 		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div>
-</head>
-<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg" align="right" width="39%">
-<body>
-  <main>
+<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg" align="right" width="38%">
     <div align="left">
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h3>
       <p>I am a tech enthusiast and a soon-to-be Web developer 👨‍💻<strong>I'm learning new stuff at the moment, working on personal projects, looking for new opportunities. More importantly, I'm striving to become a better me everyday, even one percent. </strong></p>
@@ -69,7 +62,6 @@
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 		</p>
-  </main>
 		<br>
 		<!-- <div align="center">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
@@ -77,7 +69,6 @@
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
 		</div>
 		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div> -->
-  <footer>
 	<div align="center">
 		<hr>
 		<div align="center">
@@ -85,5 +76,3 @@
     </div>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=2000&color=F7A4E9&width=435&lines=++++++%F0%9F%8C%B8Have+a+lovely+day%F0%9F%8C%B8" width="60%" alt="Typing SVG" /></a>
 	</div>
-  </footer>
-</body>
