@@ -62,16 +62,11 @@
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
 			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 		</p>
-		<p>
-		<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=mika0798&theme=dracula' />
-		</p>
 		<br>
-		<!-- <div align="center">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
-			<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/cloud.gif" height="100">
+		<div align="left">
+			<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&hide_border=true&short_numbers=true" width="56%">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact" width="41%">
 		</div>
-		<div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140"></div> -->
 	<div align="center">
 		<hr>
 		<div align="center">
