@@ -16,7 +16,7 @@
         𝐟𝐞𝐥𝐥𝐨𝐰
         <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />!
     </h3>
-    <p>I am a tech enthusiast and a Web developer, specialized in Java Backend Development 👨‍💻<strong>I'm learning new stuff at the moment, working
+    <p>I am a tech enthusiast and a Web Developer, specialized in Java Backend Development 👨‍💻<strong>I'm learning new stuff at the moment, working
             on personal projects, looking for new opportunities. More importantly, I'm striving to become a better me
             everyday, even one percent. </strong></p>
     <p><i>...And also trying to live a happy life 🏝️</i></p>
