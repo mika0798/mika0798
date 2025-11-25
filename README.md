@@ -80,6 +80,10 @@
         width="41%">
 </div>
 <div align="center">
+    <img src="https://leetcard.jacoblin.cool/mika0798?theme=catppuccinMocha&font=Monda&ext=activity" width="57%">
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
+</div>
+<div align="center">
     <hr>
     <div align="center">
         <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/techdoodle.png">
