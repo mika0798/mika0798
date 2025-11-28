@@ -9,8 +9,8 @@
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif"
         height="140"></div>
-<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Free%20Sky%2C%20Technological%2C%20Creative%20Background%20Images%2C%20Star%20Man%20Walking%20Alone%20H5%20Background%20Material%20Photo%20Background%20PNG%20and%20Vectors.jpg"
-    align="right" width="38%">
+<img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/art%20pixel%20GIF.gif"
+    align="right" width="42%">
 <div align="left">
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞,
         𝐟𝐞𝐥𝐥𝐨𝐰
