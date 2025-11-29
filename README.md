@@ -56,24 +56,8 @@
     <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
 </div>
 <br>
-<h3>🗣️ Favorite quote</h3>
-<br>
-<div align="center">
-    <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love
-            me."</i></p>
-</div>
-<div align="center">
-    <p><strong><I> -Michael Scott, The Office US</i></strong></p>
-</div>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="22.5%">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="22.75%">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
-</p>
-<br>
 <details>
-    <summary><h3>⚡Github Stats</h3></summary>
+    <summary><h3>⚡ Github Stats</h3></summary>
     <div align="left">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
             width="57%">
@@ -82,11 +66,28 @@
     </div>
 </details>
 <details>
-    <summary><h3>⚡Leetcode Stats</h3></summary>
+    <summary><h3>⚡ Leetcode Stats</h3></summary>
     <div align="center">
         <img src="https://leetcard.jacoblin.cool/mika0798?theme=catppuccinMocha&font=Monda&ext=activity" width="57%">
         <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
     </div>
+</details>
+<details>
+    <summary><h3>🗣️ Favorite quote</h3></summary>
+    <div align="center">
+        <p><i>"Would I rather be feared or loved? That's easy. Both. I want people to be afraid of how much they love
+            me."</i></p>
+    </div>
+    <div align="center">
+        <p><strong><I> -Michael Scott, The Office US</i></strong></p>
+    </div>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/michael.gif" width="22.5%">
+        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/dwight.gif" width="22.75%">
+        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
+        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
+    </p>
+    <br>
 </details>
 <div align="center">
     <hr>
