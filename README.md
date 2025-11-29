@@ -87,7 +87,6 @@
         <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/stanley.gif" width="25%">
         <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
     </p>
-    <br>
 </details>
 <div align="center">
     <hr>
