@@ -21,10 +21,9 @@
             everyday, even one percent. </strong></p>
     <p><i>...And also trying to live a happy life 🏝️</i></p>
 </div>
-<picture>
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" />
-</picture>
+<div>
+    <img src="github-readme-stats-mauve-three-79.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" />
+</div>
 <h3>📚 Tech Stack</h3>
 <br>
 <div align="left">
