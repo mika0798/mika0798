@@ -72,16 +72,22 @@
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/kevin.gif" width="23%">
 </p>
 <br>
-<div align="left">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
-        width="57%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
-        width="41%">
-</div>
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/mika0798?theme=catppuccinMocha&font=Monda&ext=activity" width="57%">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
-</div>
+<details>
+    <summary><h3>⚡Github Stats</h3></summary>
+    <div align="left">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
+            width="57%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
+            width="41%">
+    </div>
+</details>
+<details>
+    <summary><h3>⚡Leetcode Stats</h3></summary>
+    <div align="center">
+        <img src="https://leetcard.jacoblin.cool/mika0798?theme=catppuccinMocha&font=Monda&ext=activity" width="57%">
+        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
+    </div>
+</details>
 <div align="center">
     <hr>
     <div align="center">
