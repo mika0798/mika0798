@@ -22,7 +22,7 @@
     <p><i>...And also trying to live a happy life 🏝️</i></p>
 </div>
 <div>
-    <img src="github-readme-stats-mauve-three-79.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-mauve-three-79.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight" />
 </div>
 <h3>📚 Tech Stack</h3>
 <br>
