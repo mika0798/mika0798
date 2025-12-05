@@ -9,8 +9,10 @@
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif"
         height="140"></div>
-<div><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/art%20pixel%20GIF.gif"
-    align="right" width="43%"></div>
+<div >
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/art%20pixel%20GIF.gif" align="right"
+     width="43%" length="40%">
+</div>
 <div align="left">
     <h3><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> 𝐇i 𝐭𝐡𝐞𝐫𝐞,
         𝐟𝐞𝐥𝐥𝐨𝐰
