@@ -56,6 +56,14 @@
     <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
 </div>
 <br>
+    <details open> 
+      <summary><h2>📘 My Top Projects</h2></summary>
+      <p align="left">
+        <a href="https://github.com/mika0798/quiz-application"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=quiz-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletProjectManagement"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletProjectManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletWeatherApp"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletWeatherApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+      </p>
+</details>
 <details>
     <summary><h3>⚡ Github Stats</h3></summary>
     <div align="left">
