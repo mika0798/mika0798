@@ -58,10 +58,10 @@
 <br>
     <details open> 
       <summary><h2>📘 My Top Projects</h2></summary>
-      <p align="left">
-        <a href="https://github.com/mika0798/quiz-application"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=quiz-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
-        <a href="https://github.com/mika0798/ServletProjectManagement"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletProjectManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
-        <a href="https://github.com/mika0798/ServletWeatherApp"><img width="278" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletWeatherApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+      <p align="center">
+        <a href="https://github.com/mika0798/quiz-application"><img width="32%" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=quiz-application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletProjectManagement"><img width="32%" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletProjectManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletWeatherApp"><img width="32%" src="https://github-readme-stats-mauve-three-79.vercel.app/api/pin/?username=mika0798&repo=ServletWeatherApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
       </p>
 </details>
 <details>
