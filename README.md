@@ -61,7 +61,7 @@
     <div align="left">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
             width="57%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
+        <img src="https://github-readme-stats-mauve-three-79.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
             width="41%">
     </div>
 </details>
