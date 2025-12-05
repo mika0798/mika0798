@@ -66,11 +66,14 @@
 </details>
 <details>
     <summary><h3>⚡ Github Stats</h3></summary>
-    <div align="left">
+    <div align="center">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
             width="57%">
         <img src="https://github-readme-stats-mauve-three-79.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
             width="41%">
+    </div>
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=monokai&bg_color=1f032e&radius=12&grid=false" width="98%">
     </div>
 </details>
 <details>
