@@ -75,7 +75,7 @@
             width="41%">
     </div>
     <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=monokai&bg_color=1f032e&radius=12&grid=false" width="98%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=monokai&bg_color=1f222e&radius=12&custom_title=Khang's%20Contributions&title_color=ed3e70&grid=false" width="98%">
     </div>
 </details>
 <details>
