@@ -61,9 +61,9 @@
 <details> 
     <summary><h3>📘 My Top Projects</h3></summary>
     <p align="center">
-        <a href="https://github.com/mika0798/quiz-application"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=quiz-application&theme=react&bg_color=1F222E&title_color=1ed941&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
-        <a href="https://github.com/mika0798/ServletProjectManagement"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=ServletProjectManagement&theme=react&bg_color=1F222E&title_color=F85D7E&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
-        <a href="https://github.com/mika0798/ServletWeatherApp"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=ServletWeatherApp&theme=react&bg_color=1F222E&title_color=F85D7E&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/quiz-application"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=quiz-application&theme=react&bg_color=1F222E&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletProjectManagement"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=ServletProjectManagement&theme=react&bg_color=1F222E&title_color=F85D7D&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
+        <a href="https://github.com/mika0798/ServletWeatherApp"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=ServletWeatherApp&theme=react&bg_color=1F222E&title_color=F85D7D&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
     </p>
 </details>
 <details>
@@ -71,11 +71,11 @@
     <div align="center">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=monokai-metallian&short_numbers=true"
             width="57%">
-        <img src="https://github-readme-stats-mauve-three-79.vercel.app/api/top-langs?username=mika0798&theme=dracula&show_icons=true&locale=en&layout=compact"
+        <img src="https://github-readme-stats-mauve-three-79.vercel.app/api/top-langs?username=mika0798&theme=dracula&title_color=F85D7D&show_icons=true&locale=en&layout=compact"
             width="41%">
     </div>
     <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=monokai&bg_color=1f222e&radius=12&custom_title=Khang's%20Contributions&title_color=ed3e70&grid=false" width="98%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=monokai&bg_color=1f222e&radius=12&custom_title=Khang's%20Contributions&title_color=F85D7D&grid=false" width="98%">
     </div>
 </details>
 <details>
