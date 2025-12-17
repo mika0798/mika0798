@@ -58,7 +58,7 @@
     <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
 </div>
 <br>
-<details> 
+<details open> 
     <summary><h3>📘 My Top Projects</h3></summary>
     <p align="left">
         <a href="https://github.com/mika0798/projects-management-api"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=projects-management-api&theme=react&bg_color=0,000000,300082,360082&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
