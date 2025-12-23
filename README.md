@@ -83,13 +83,13 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=nightowl&bg_color=360082&radius=12&custom_title=Khang's%20Contributions&title_color=b34ecf&grid=false" width="98%">
     </div>
 </details>
-<details>
+<!-- <details>
     <summary><h3>⚡ Leetcode Stats</h3></summary>
     <div align="center">
         <img src="https://leetcard.jacoblin.cool/mika0798?theme=dark&font=Nokora&colors=360082%2C6628ad%2C6e4acf%2Cb34ecf%2C6d79e3%2C1cc736%2Ce69215%2Ce62a15&ext=activity" width="57%">
         <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
     </div>
-</details>
+</details> -->
 <details>
     <summary><h3>🗣️ Favorite quote</h3></summary>
     <div align="center">
