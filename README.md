@@ -24,7 +24,7 @@
     <p><i>...And also trying to live a happy life 🏝️</i></p>
 </div>
 <div>
-    <img src="https://github-readme-stats-mauve-three-79.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight&bg_color=0,000000,490bdb" />
+    <img src="https://readme-stats-mika0798.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight&bg_color=0,000000,490bdb" />
 </div>
 <h3>📚 Tech Stack</h3>
 <br>
@@ -77,7 +77,7 @@
     <div align="center">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=nightowl&background=0,000000,300082,360082&short_numbers=true"
             width="57%">
-        <img src="https://github-readme-stats-mauve-three-79.vercel.app/api/top-langs?username=mika0798&theme=nightowl&bg_color=0,360082,3d0082,430082,470082&title_color=b34ecf&show_icons=true&locale=en&layout=compact"
+        <img src="https://readme-stats-mika0798.vercel.app/api/top-langs?username=mika0798&theme=nightowl&bg_color=0,360082,3d0082,430082,470082&title_color=b34ecf&show_icons=true&locale=en&layout=compact"
             width="41%">
     </div>
     <div align="center">
