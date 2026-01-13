@@ -61,7 +61,6 @@
 <details open> 
     <summary><h3>📘 My Top Projects</h3></summary>
     <p align="left">
-        <a href="https://github.com/mika0798/job-portal"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=job-portal&theme=react&bg_color=0,100082,300082,360082&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
         <a href="https://github.com/mika0798/blog-platform"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=blog-platform&theme=react&bg_color=0,100082,300082,360082&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
         <a href="https://github.com/mika0798/inventory-managment"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=inventory-managment&theme=react&bg_color=0,100082,300082,360082&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
         <a href="https://github.com/mika0798/task-tracker-app"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mika0798&repo=task-tracker-app&theme=react&bg_color=0,100082,300082,360082&title_color=1ed942&hide_border=false&icon_color=F8D866&show_icons=false" alt=""></a>
