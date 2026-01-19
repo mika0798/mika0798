@@ -3,7 +3,7 @@
     ❤️ Java
     🌱 Spring Boot Ecosystem
     📜 BC at UIT - VNUHCM
-    💡 Problem solving lover
+    💡 Problem solver
 </pre>
 <div align="center">
     <div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif"
