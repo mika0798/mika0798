@@ -1,6 +1,6 @@
 <pre>
     👋 I'm Khang
-    ☕ Java
+    ❤️ Java
     🌱 Spring Boot Ecosystem
     📜 BC at UIT - VNUHCM
     💡 Problem solving lover
