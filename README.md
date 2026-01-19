@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/Pixel%20Pizza%20GIF.gif" width="35%" align="right" />
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
     <br><br>
 <pre>
     👋 I'm Khang
