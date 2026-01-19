@@ -6,8 +6,6 @@
     💡 Problem solving lover
 </pre>
 <div align="center">
-    <hr>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/techdoodle.png">
-    </div>
+    <div align="center"><img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif"
+        height="140"></div>
 </div>
