@@ -10,18 +10,18 @@
     💡 Problem solver
 </pre>
 <div>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prometheus.svg" width="50"></a>
-	<a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/loki-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prometheus.svg" width="40"></a>
+	<a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/loki-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="40"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="40"></a>
 </div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140">
