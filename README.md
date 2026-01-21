@@ -10,14 +10,18 @@
     💡 Problem solver
 </pre>
 <div>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prometheus.svg" width="50"></a>
+	<a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/loki-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="50"></a>
 </div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140">
