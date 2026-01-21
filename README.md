@@ -9,7 +9,7 @@
     📜 BC at UIT - VNUHCM
     💡 Problem solver
 </pre>
-<div>
+<!-- <div>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="40"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="40"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="40"></a>
@@ -22,7 +22,7 @@
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="40"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="40"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="40"></a>
-</div>
+</div> -->
 <div align="center">
     <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="140">
 </div>
